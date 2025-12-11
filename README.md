@@ -1,12 +1,102 @@
-<h1 align="center">Hi 👋, I'm Prem Raj</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prem-raj-594505220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-raj-594505220" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pr20022008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pr20022008" height="30" width="40" /></a>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:2A2A72&height=180&section=header&text=Prem%20Raj&fontSize=45&fontColor=ffffff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there 👋</h1>
 
+<!-- NAME CHIPS LIKE HARISH STYLE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/P-6C5CE7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-9B59B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/E-8E44AD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/M-7D3C98?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-6C5CE7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/A-9B59B6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/J-8E44AD?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+# 🎯 **About Me**
+I am a **Full-Stack Developer** specializing in **React, Express, Flutter, Node.js, AWS**.  
+I build **production-level apps**, scalable backend systems and clean UI experiences.
+
+- 🔥 Full-Stack Development (React + Express + MongoDB)
+- 📱 Mobile Apps using Flutter + BLoC  
+- ☁️ AWS 
+- 🚀 Always learning & building something new
+
+---
+
+# 🪪 **Profile Card**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cracker0001&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
+</p>
+
+---
+
+# 🛠 **Things I Use on a Daily Basis**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=blue" />
+</p>
+
+---
+
+# 🚀 **Featured Projects**
+
+### ⭐ **1. Full-Stack E-Commerce Platform**
+- React + Express + MongoDB  
+- Authentication • Product Catalog • Admin Dashboard
+
+### ⭐ **2. Tractor Rental IoT App (Flutter + Node.js)**
+- Real-time device updates  
+- Telemetry, maps, booking flow
+
+### ⭐ **3. Portfolio Website**
+- React + animations  
+- Fully responsive
+
+*(Add images/GIFs later easily)*
+
+---
+
+# 📊 **GitHub Stats & Activity**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cracker0001&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cracker0001&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+# 🌐 **Connect With Me**
+<p align="center">
+  <a href="https://linkedin.com/in/prem-raj-594505220">
+    <img src="https://img.shields.io/badge/LinkedIn-Prem_Raj-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://auth.geeksforgeeks.org/user/pr20022008">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-pr20022008-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+
+  <a href="https://github.com/cracker0001">
+    <img src="https://img.shields.io/badge/GitHub-cracker0001-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2A72,100:6C5CE7&height=120&section=footer" />
+</p>
