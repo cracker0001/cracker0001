@@ -31,7 +31,7 @@ I build **production-level apps**, scalable backend systems and clean UI experie
 
 # 🪪 **Profile Card**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cracker0001&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
+  <img src="https://github.com/cracker0001.png" width="450" />
 </p>
 
 ---
@@ -57,26 +57,13 @@ I build **production-level apps**, scalable backend systems and clean UI experie
 - React + Express + MongoDB  
 - Authentication • Product Catalog • Admin Dashboard
 
-### ⭐ **2. Tractor Rental IoT App (Flutter + Node.js)**
-- Real-time device updates  
-- Telemetry, maps, booking flow
+### ⭐ **2. Real Time Code Editor**
+- React + Express + MongoDB  
+- Authentication • Collaborative Code Editor • Web Socket
 
 ### ⭐ **3. Portfolio Website**
 - React + animations  
 - Fully responsive
-
-*(Add images/GIFs later easily)*
-
----
-
-# 📊 **GitHub Stats & Activity**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cracker0001&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cracker0001&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ---
 
